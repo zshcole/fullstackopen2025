@@ -1,4 +1,4 @@
-# Diagram# Diagrams
+# Diagrams
 
 This repository contains sequence diagrams illustrating the behavior of a notes application in different scenarios. Below is an explanation of each diagram:
 
@@ -8,7 +8,7 @@ This diagram depicts the process of creating a new note in the traditional web a
 
 ## 2. **Single Page App (SPA) Loading**
 
-This diagram illustrates how the single-page app (SPA) version of the notes application is loaded. The browser fetches the minimal HTML document, CSS, and JavaScript files. The JavaScript then dynamically fetches the initial data (in JSON format) from the server and renders the app without requiring a full page reload.
+This diagram illustrates how the single-page app (SPA) version of the notes application is loaded. The browser fetches the minimal HTML document, CSS, and JavaScript files. The JavaScript then dynamically fetches the initial data e(in JSON format) from the server and renders the app without requiring a full page reload.
 
 ## 3. **New Note on SPA**
 
